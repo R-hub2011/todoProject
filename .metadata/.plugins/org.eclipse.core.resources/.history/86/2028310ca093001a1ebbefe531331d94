@@ -1,0 +1,10 @@
+package com.rohith.conteoller;
+
+@org.springframework.stereotype.Controller
+public class Controller {
+	
+	public String home() {
+		return "home.jsp";
+	}
+
+}
