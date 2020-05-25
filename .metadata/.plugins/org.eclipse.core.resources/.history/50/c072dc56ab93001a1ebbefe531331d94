@@ -1,5 +1,0 @@
-package com.rohith.demo.repo;
-
-public interface RohithRepo {
-
-}
